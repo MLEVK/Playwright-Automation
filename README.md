@@ -11,6 +11,7 @@ Areas covered:
 9. Page Object Patterns & Data driven Parameterization.
 10. Test retires, Parallel Execution & Serail Execution.
 11. Allure reporting & CI/CD jenkins integration.
+    
 // Use the below Url for reference to do the required setting in environments
 # https://playwright.dev/
 Note: Refer Each & every folders in projects for better understanding. Happy Hacking!
